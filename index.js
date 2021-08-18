@@ -51,7 +51,7 @@ var question = [
      question : chalk.yellowBright("\nQ10. On what planet was the Soul Stone in Infinity War?\n"),
     answer : "VORMIR"
   },{
-     question : chalk.yellowBright("\nQ11.   What is the name of Tony's interactive computer assistant?\n"),
+     question : chalk.yellowBright("\nQ11. What is the name of Tony's interactive computer assistant?\n"),
     answer : "JARVIS"
   },{
      question : chalk.yellowBright("\nQ12. How many Infinity Stones are there?\n"),
