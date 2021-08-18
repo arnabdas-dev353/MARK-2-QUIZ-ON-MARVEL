@@ -13,6 +13,9 @@ var highScore = [
 },{
   name : chalk.yellow("Amy"),
   score : chalk.cyan("13")
+},{
+  name : chalk.yellow("Bizan"),
+  score : chalk.cyan("11")
 }];
 
 // QUESTIONS RECORD
