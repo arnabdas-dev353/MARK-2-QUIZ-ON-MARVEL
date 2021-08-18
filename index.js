@@ -36,7 +36,7 @@ var question = [
      question : chalk.yellowBright("\nQ6. Who is Black Panther’s sister?\n"),
     answer : "SHURI"
   },{
-     question : chalk.yellowBright("\nQ7. Doctor Strange's original first name ?\n"),
+     question : chalk.yellowBright("\nQ7. Doctor Strange actor's first name ?\n"),
     answer : "BENEDICT"
   },{
      question : chalk.yellowBright("\nQ8. Thor’s Mjolnir is made from the metal of a dying ___?\n"),
